@@ -1,0 +1,17 @@
+.multi-items-filter {
+  padding: 15px 0;
+  border-bottom: 1px solid #cccccc;
+  .category-text {
+    font-weight: bold;
+    padding-bottom: 5px;
+  }
+  .item {
+    display: inline-block;
+    height: 34px;
+    margin-left: 10px;
+    .item-text {
+      line-height: 34px;
+      display: inline-block;
+    }
+  }
+}

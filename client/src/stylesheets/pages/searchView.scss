@@ -1,0 +1,15 @@
+.category-block {
+  padding: 15px 0;
+  border-bottom: 1px solid #cccccc;
+  .category-text {
+    font-weight: bold;
+    padding-bottom: 5px;
+    &.price {
+      margin-top: 5px;
+    }
+  }
+}
+
+.results-wrap {
+  padding: 20px 0;
+}
