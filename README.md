@@ -27,5 +27,7 @@
   - Fixed all the LINT errors
   
 2.When the apartments were fetched locations were always returned as null by the BE query provided, so it had to be changed.
+
 3.Added Webpack.
+
 4.url for Locations page is `/locations`, and for Search page is `/search`
