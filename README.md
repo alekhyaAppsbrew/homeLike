@@ -1,16 +1,16 @@
-# homeLike
+
 ### STEPS TO INSTALL:
 1. Start the MongoDB Server:
-   - Go to <mongodb-install-directory>/bin directory
+   - Go to `<mongodb-install-directory>/bin` directory
    - Run the command:
-     ./mongod
+     `./mongod`
    - Create a Database named "assignment":
      use assignment
 2. Start the server in the `../server` folder
-   - npm start
+   - `npm start`
 3. start the client:
-    - npm i
-    - npm start
+    - `npm i`
+    - `npm start`
 
 ## What to do
 1. Invest some time to refactor the current code and make it better
